@@ -1,0 +1,65 @@
+.wash-home {
+    background-color: skyblue;
+    position: relative;
+}
+.wash-about {
+    font-family: cursive;
+    font-size: 15px;
+    text-decoration-line: underline;
+    font-weight: bolder;
+}
+.wash-pics {
+    font-family: cursive;
+    font-size: 15px;
+    text-decoration-line: underline;
+    font-weight: bolder;
+}
+.wash-contact {
+    font-family: cursive;
+    font-size: 15px;
+    text-decoration-line: underline;
+    font-weight: bolder;
+}
+.wash-title {
+    font-family: cursive;
+    font-size: 32px;
+    text-decoration-line: underline;
+    font-weight: bolder;
+    color: whitesmoke;
+    text-align: center;
+}
+.wash-help {
+    position: absolute;
+    font-family: cursive;
+    font-size: 21px;
+    font-weight: bolder;
+}
+.wash-help2 {
+    position: absolute;
+    font-family: cursive;
+    font-size: 21px;
+    font-weight: bolder;
+    margin-left: 768px;
+}
+.memberships-plans {
+    font-family: cursive;
+    font-size: 18px;
+    margin-top: 85px;
+    text-align: center;
+}
+.silver-plan {
+    text-align: center;
+    font-size: 18px;
+    margin-top: 38px;
+    font-family: cursive;
+}
+.silver-menu {
+    font-size: 18px;
+    font-family: cursive;
+}
+.paypal {
+    font-family: cursive;
+    font-size: 18px;
+    margin-top: 50px;
+    text-align: center;
+}
